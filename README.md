@@ -1,2 +1,2 @@
-user: admin
-passwd: 123456
+user: bruno
+passwd: bruno
